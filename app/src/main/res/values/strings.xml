@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DZ6.3month</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">Text</string>
+    <string name="text2">Text</string>
+    <string name="button">Button</string>
+</resources>
