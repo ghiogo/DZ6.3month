@@ -4,4 +4,6 @@ import com.example.dz63month.data.TextModel
 
 interface OnItemTextListener {
     fun onClick (model: TextModel)
+
+    fun onLongClick(textModel: TextModel) : Boolean
 }

@@ -1,4 +1,4 @@
-package com.example.dz63month.repository
+package com.example.dz63month.`interface`.repository
 
 import com.example.dz63month.data.TextModel
 
@@ -10,7 +10,7 @@ class TextRepository {
         textList.add(TextModel("Switching Protocols"))
         textList.add(TextModel("loshari"))
         textList.add(TextModel("Ayana"))
-        textList.add(TextModel("Salim"))
+        textList.add(TextModel("SalimLoshara"))
         textList.add(TextModel("Ibragim"))
         textList.add(TextModel("Lilia"))
         textList.add(TextModel("Jafar"))
